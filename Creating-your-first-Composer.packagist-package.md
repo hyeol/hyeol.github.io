@@ -284,7 +284,7 @@ Go to your account, your package and click "Force Update!".
 
 Packagist will go to Github and update the sources.
 
-Packagist는 Github으로 가, 소스를 갱신한다.
+Packagist는 Github으로 가, 소스를 갱신해올 것이다.
 
 
 You can turn on "auto update" going to your Github repo, clicking "Settings", after "Service Hooks" and click the "Packagist" service.
