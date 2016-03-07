@@ -6,7 +6,6 @@
 
 Composer is a package manager for PHP.
 
-
 Composer 는 PHP 의 패키지 매니저이다.
 
 
@@ -17,8 +16,7 @@ You can use packages the community developed and you can contribute with your pa
 
 Here I'll show how to create a project/package, install Composer inside it and send to Packagist, where others developers can use it inside their projects.
 
-여기서 나는 project/package 를 만드는  방법을 보여줄 것이다, 그 내부에 있는 패키지를 Composer로 설치하고, Packagist 로 보내고.
-다른 개발자들이 그 들의 프로젝트 내에서 사용할수 있다.
+여기서 나는 project/package를 만들고, 그 내부에 Composer를 설치하고, 다른 개발자들이 그들의 프로젝트에서 사용할 수 있게 Packagist로 보내는 방법을 보여줄 것이다.
 
 
 ## Creating the Package
