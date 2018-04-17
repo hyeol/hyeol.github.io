@@ -28,7 +28,7 @@ self.addEventListener('push', function (event) {
     const title = 'Push Codelab';
     const options = {
         body: event.data.text(),
-        icon: 'images/icon.png',
+        icon: 'images/saramin_128_blue.png',
         badge: 'images/badge.png'
     };
 
